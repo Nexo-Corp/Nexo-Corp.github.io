@@ -1,0 +1,73 @@
+body{
+	background-image:url(image/aR.jpg);
+}
+body h1{
+	color: white;
+}
+body h2{
+	color: red;
+	background: white;
+	width: 320px;
+}
+
+body img{
+	width: 150px;
+}
+
+h1{
+	text-align: center;
+}
+#maDiv{
+	width: 150px;
+	border: 3px solid #3CC;
+	margin: 10px 10px;
+	padding: 10px;
+}
+
+.rouge {
+	background-color:red;
+}
+.blanc {
+	background-color : pink;
+}
+
+feur h2 {
+	color: white;
+	background: None;
+}
+feur h3{
+	color: purple;
+}
+
+.centre{
+  text-align: center;
+}
+
+feur button {
+	width: 100px;
+	height: 100px;
+}
+
+logo img{
+	width: 400px;
+	height: 400px;
+}
+
+lilo button{
+	width: 400px;
+	height: 100px;
+	background: #00CA6C;
+	text-align: center;
+}
+.gris {
+	background-color: #4B4545;
+}
+.vert {
+	background-color : #00CA6C;
+}
+
+.non {
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
